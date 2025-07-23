@@ -1,0 +1,13 @@
+https://github.com/esp32beans/switch_ESP32/tree/main
+
+https://github.com/lefmarna/NintendoSwitchControlLibrary
+
+https://github.com/ricardoquesada/bluepad32
+
+https://bluepad32.readthedocs.io/en/latest/
+
+https://github.com/nullstalgia/UARTSwitchCon
+
+https://github.com/alfilipe/SwitchCon/tree/master
+
+
