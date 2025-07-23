@@ -20,7 +20,9 @@ Este proyecto permite leer las entradas de un mando PlayStation 2 (botones, D�
 - Mando PS2 (volante y pedales).
 - Cable USB-C a USB-C o dock.
 
-### Recursos útiles
+---
+
+## Recursos útiles
 - [esp32beans/switch_ESP32](https://github.com/esp32beans/switch_ESP32)  
 - [lefmarna/NintendoSwitchControlLibrary](https://github.com/lefmarna/NintendoSwitchControlLibrary)  
 - [ricardoquesada/bluepad32](https://github.com/ricardoquesada/bluepad32)  
