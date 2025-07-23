@@ -34,8 +34,8 @@ Este proyecto permite leer las entradas de un mando PlayStation 2 (botones, D�
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/ps2-to-switch-adapter.git
-   cd ps2-to-switch-adapter
+   git clone https://github.com/Alvaro137/ps2-to-switch-controller-adapter.git
+   cd ps2-to-switch-controller-adapter
 2. Conecta hardware:
 
     PS2_DAT, PS2_CMD, PS2_CLK, PS2_SEL a los GPIO definidos en main.cpp.
@@ -47,8 +47,8 @@ Este proyecto permite leer las entradas de un mando PlayStation 2 (botones, D�
 
 ## Uso
 
-    1. Conecta el ESP32 puerto USB-C al dock o puerto USB‑C de la Switch.
+1. Conecta el ESP32 puerto USB-C al dock o puerto USB‑C de la Switch.
 
-    2. Enciende la Nintendo Switch y selecciona perfil de control.
+2. Enciende la Nintendo Switch y selecciona perfil de control.
 
-    3. Usa el mando PS2: la Switch lo reconocerá como un Pro Controller.
+3. Usa el mando PS2: la Switch lo reconocerá como un Pro Controller.
